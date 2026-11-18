@@ -1,3 +1,4 @@
+![Sage Bloom Banner](./sage-bloom-banner.png.png)
 <h1 align="center">˚ ༘ ೀ⋆｡˚ Hello, World! I'm Chell! ♡ ˚ ༘ ೀ⋆｡˚ </h1>
 <p align="center">
   <mark><em>A curious mind in a world full of possibilities.</em></mark>
