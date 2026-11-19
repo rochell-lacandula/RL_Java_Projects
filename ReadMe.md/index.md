@@ -81,12 +81,12 @@ A little collection of my learning progress, experiments, and projects.
   <tbody>
     <tr>
       <td>Lab Task 01</td>
-      <td>Description</td>
+      <td>Using 2D array to store integer values and calculate row, column, and diagonal sum.</td>
       <td><a href="https://github.com/rochell-lacandula/RL_Java_Projects/tree/2b86ec0e165a6b95169335276662e328635961c5/MIDTERMS/Labtask1">View</a></td>
     </tr>
     <tr>
       <td>Lab Task 02</td>
-      <td>Description</td>
+      <td>Using 3D array to store and process students average from different section.</td>
       <td><a href="https://github.com/rochell-lacandula/RL_Java_Projects/tree/86fdf0eb5a1028dcdac12f7604c697562a494e1d/MIDTERMS/Labtask2">View</a></td>
     </tr>
     <tr>
