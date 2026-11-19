@@ -7,7 +7,6 @@
   <mark><em>A curious mind in a world full of possibilities.</em></mark>
 </p>
 ---
----
 
 ## 🌿 ABOUT ME
 
