@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ReadMe.md/sage-bloom-banner.png.png" width="600" alt="Sage Bloom Banner">
+  <img src="https://raw.githubusercontent.com/rochell-lacandula/RL_Java_Projects/main/ReadMe.md/sage-bloom-banner.png.png" width="1000" alt="Sage Bloom Banner">
 </p>
 <h1 align="center">˚ ༘ ೀ⋆｡˚ Hello, World! I'm Chell! ♡ ˚ ༘ ೀ⋆｡˚ </h1>
 
