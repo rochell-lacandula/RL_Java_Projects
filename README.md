@@ -1,8 +1,9 @@
+
 <h1 align="center">˚ ༘ ೀ⋆｡˚ Hello, World! I'm Chell! ♡ ˚ ༘ ೀ⋆｡˚ </h1>
+
 <p align="center">
   <mark><em>A curious mind in a world full of possibilities.</em></mark>
 </p>
-
 
 ---
 
@@ -26,12 +27,10 @@ I'm a curious mind with a creative side, always looking for something new to lea
 
 ## 🍃 CURRENTLY EXPLORING
 
-
 ![Programming](https://img.shields.io/badge/Programming-607648?style=flat-square&logoColor=white)
 ![Creative Projects](https://img.shields.io/badge/Creative_Projects-F6CECC?style=flat-square&logoColor=333333)
 ![App Development](https://img.shields.io/badge/App_Development-8FAB82?style=flat-square&logoColor=white)
 ![Web Development](https://img.shields.io/badge/Web_Development-F6CECC?style=flat-square)
-
 
 ---
 
@@ -66,27 +65,65 @@ A little collection of my learning progress, experiments, and projects.
 
 <details>
 <summary>📁 Midterm Lab Tasks</summary>
- 
+
 <br>
- 
-| Activity | Description | Link |
-|---|---|---|
-| Lab Task 01 | Description | [View](https://github.com/rochell-lacandula/RL_Java_Projects/tree/2b86ec0e165a6b95169335276662e328635961c5/MIDTERMS/Labtask1) |
-| Lab Task 02 | Description | [View](https://github.com/rochell-lacandula/RL_Java_Projects/tree/86fdf0eb5a1028dcdac12f7604c697562a494e1d/MIDTERMS/Labtask2) |
-| Lab Task 03 | Description | [View](YOUR_LINK) |
- 
+
+<table>
+  <thead>
+    <tr>
+      <th>Activity</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lab Task 01</td>
+      <td>Description</td>
+      <td><a href="https://github.com/rochell-lacandula/RL_Java_Projects/tree/2b86ec0e165a6b95169335276662e328635961c5/MIDTERMS/Labtask1">View</a></td>
+    </tr>
+    <tr>
+      <td>Lab Task 02</td>
+      <td>Description</td>
+      <td><a href="https://github.com/rochell-lacandula/RL_Java_Projects/tree/86fdf0eb5a1028dcdac12f7604c697562a494e1d/MIDTERMS/Labtask2">View</a></td>
+    </tr>
+    <tr>
+      <td>Lab Task 03</td>
+      <td>Description</td>
+      <td><a href="YOUR_LINK">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
 </details>
- 
+
 <details>
 <summary>🔒 Final Lab Tasks</summary>
- 
+
 <br>
- 
-| Activity | Description | Link |
-|---|---|---|
-| Final Task 01 | Description | [View](YOUR_LINK) |
-| Final Task 02 | Description | [View](YOUR_LINK) |
- 
+
+<table>
+  <thead>
+    <tr>
+      <th>Activity</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Final Task 01</td>
+      <td>Description</td>
+      <td><a href="YOUR_LINK">View</a></td>
+    </tr>
+    <tr>
+      <td>Final Task 02</td>
+      <td>Description</td>
+      <td><a href="YOUR_LINK">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
 </details>
 
 <details>
@@ -100,18 +137,19 @@ A little collection of my learning progress, experiments, and projects.
 ---
 
 ## 💌 LET'S CONNECT!
+
 <a href="mailto:lacandularochell@gmail.com">
 <img src="https://img.shields.io/badge/Email-F6CECC?style=for-the-badge&logo=gmail&logoColor=607648" alt="Email">
 </a>
- 
+&nbsp;
 <a href="https://github.com/rochell-lacandula">
 <img src="https://img.shields.io/badge/GitHub-8FAB82?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
- 
+&nbsp;
 <a href="https://www.facebook.com/rochell.lacandula">
 <img src="https://img.shields.io/badge/Facebook-F0E7E8?style=for-the-badge&logo=facebook&logoColor=607648" alt="Facebook">
 </a>
- 
+&nbsp;
 <a href="https://www.instagram.com/rocierred/">
 <img src="https://img.shields.io/badge/Instagram-F5A29C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
