@@ -63,7 +63,7 @@ I'm a curious mind with a creative side, always looking for something new to lea
 
 A little collection of my learning progress, experiments, and projects.
 
-<details>
+<details markdown="1">
 <summary>📁 Midterm Lab Tasks</summary>
 
 <br>
@@ -97,7 +97,7 @@ A little collection of my learning progress, experiments, and projects.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>🔒 Final Lab Tasks</summary>
 
 <br>
@@ -126,7 +126,7 @@ A little collection of my learning progress, experiments, and projects.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>🔐 Personal Projects</summary>
 
 - Coming soon...
