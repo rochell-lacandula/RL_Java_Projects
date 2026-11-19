@@ -97,7 +97,7 @@ A little collection of my learning progress, experiments, and projects.
 - More ideas are loading!
 
 </details>
-
+---
 ---
 
 ## 💌 LET'S CONNECT!
